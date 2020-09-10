@@ -22,8 +22,10 @@
 <a href="https://www.youtube.com/watch?v=bUKwt2KIhp0">
   <img align="center" alt="LFR" src="https://user-images.githubusercontent.com/22770735/92782926-fe11b600-f3c2-11ea-8200-67c0510652aa.gif" />
 
+<img align="center" width="400" alt="LFR" src="https://user-images.githubusercontent.com/22770735/92783285-44ffab80-f3c3-11ea-8bd2-c162b7faf550.jpeg" />
+<br>
 
 </div>
 
-<img align="center" width="400" alt="LFR" src="https://user-images.githubusercontent.com/22770735/92783285-44ffab80-f3c3-11ea-8bd2-c162b7faf550.jpeg" />
+
 
