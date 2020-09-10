@@ -31,7 +31,9 @@
 ## Materials
 
 ***<details><summary>Click Me For Materials!<img height="45" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
-
+  
+  
+<br>
 Hello Friends, this is the First part of the tutorial for fast PID Line Follower. 
 
 
