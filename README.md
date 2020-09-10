@@ -5,7 +5,7 @@
 <i>A Maze Solving Line Follower Using Arduino</i>
 
 <a href="https://github.com/eagleanuragLineFollower/DIY-FAST-PID-LINE-FOLLOWER/stargazers"><img src="https://img.shields.io/github/stars/eagleanurag/Open-Source-mazeSolver" alt="Stars Badge"/></a>
-<a href="https://github.com/eagleanuragLineFollower/DIY-FAST-PID-LINE-FOLLOWER/network/members"><img src="https://img.shields.io/github/forks/eagleanurag/Open-Source-mazeSolver" alt="Forks Badge"/></a>
+
 <a href="https://github.com/eagleanuragLineFollower/DIY-FAST-PID-LINE-FOLLOWER/pulls"><img src="https://img.shields.io/github/issues-pr/eagleanurag/Open-Source-mazeSolver" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/eagleanuragLineFollower/DIY-FAST-PID-LINE-FOLLOWER/issues"><img src="https://img.shields.io/github/issues/eagleanurag/Open-Source-mazeSolver" alt="Issues Badge"/></a>
 <a href="https://github.com/eagleanuragLineFollower/DIY-FAST-PID-LINE-FOLLOWER/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/eagleanurag/Open-Source-mazeSolver?color=2b9348"></a>
