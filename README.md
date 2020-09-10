@@ -28,4 +28,38 @@
 </div>
 
 
+***<details><summary>Click Me For Materials!<img height="45" alt="GIF" src="https://user-images.githubusercontent.com/22770735/91830480-75777500-ec60-11ea-9b11-83e9d9f6ceb5.gif" /></summary>***
 
+Hello Friends, this is the First part of the tutorial for fast PID Line Follower. 
+
+
+Find Schematic HERE https://drive.google.com/open?id=1ZDw...
+
+**CAUTION**- The Code will only work with ATMEGA328 and ATMEGA168 Micro controllers
+
+Find Code Here
+https://drive.google.com/open?id=1j4C...
+
+So Here are the Links of the products used in the tutorial. 
+
+1. Wheels
+https://www.aimonirobotics.com/produc...
+
+2. Motors
+https://www.aimonirobotics.com/produc...
+
+3. Brackets
+https://www.aimonirobotics.com/produc...
+
+4. Seven Segment Line Sensor
+https://www.aimonirobotics.com/produc...
+
+5.Motor Driver
+https://www.aimonirobotics.com/produc...
+
+6. Battery
+https://robu.in/product/orange-360mah...
+
+
+</details>
+<br />
